@@ -91,7 +91,7 @@ p {
 .m {
     font-size: 900%;
 }
-@media (max-width 600px) {
+@media screen (max-width 600px) {
 nav {
    height: 42px;
     padding-left: 15px;
